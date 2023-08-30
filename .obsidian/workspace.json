@@ -11,8 +11,12 @@
             "id": "a201553d3a76c541",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/Ethernet/PoE & EoP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CCNA/Ethernet/PoE & EoP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CCNA/Ethernet/PoE & EoP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CCNA/Ethernet/PoE & EoP.md"
+              }
             }
           }
         ]
@@ -142,6 +150,7 @@
   },
   "active": "a201553d3a76c541",
   "lastOpenFiles": [
+    "CCNA/Ethernet/PoE & EoP.md",
     "Untitled.canvas",
     "Networking.md",
     "CCNA/VLANs",
