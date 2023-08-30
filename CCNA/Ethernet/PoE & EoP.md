@@ -1,4 +1,3 @@
-
 ## Power over Ethernet
 
 #### Devices
